@@ -1,3 +1,4 @@
+<img width="909" height="804" alt="Spotify pic" src="https://github.com/user-attachments/assets/b8cb2288-bd9b-49a2-aa78-1cdaf1087872" />
 # Spotify-Genre-Segmentation
 ML project to classify Spotify songs by genre using audio features
 
