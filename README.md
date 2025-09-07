@@ -1,3 +1,12 @@
+<img width="909" height="804" alt="Spotify pic" src="https://github.com/user-attachments/assets/2170fdde-3b23-451b-a1bf-d251403c90ab" />
+<img width="870" height="499" alt="1" src="https://github.com/user-attachments/assets/a84a35d3-b256-4989-87b8-691d90f225a9" />
+<img width="591" height="463" alt="2" src="https://github.com/user-attachments/assets/3287b486-3efe-4d0d-9503-11d2f3dd1a4a" />
+<img width="591" height="463" alt="3" src="https://github.com/user-attachments/assets/5f3e92a9-29e5-48cb-b1d5-f9354c6d130a" />
+<img width="1251" height="1092" alt="5" src="https://github.com/user-attachments/assets/7d0b3eb1-b104-486a-a3de-c3cc3c857eec" />
+<img width="521" height="466" alt="6" src="https://github.com/user-attachments/assets/9a8344f8-80ac-4a40-844e-4eb1299fa010" />
+<img width="809" height="556" alt="7" src="https://github.com/user-attachments/assets/5942556a-b7ff-477f-b320-09e2cda88c4a" />
+<img width="603" height="463" alt="8" src="https://github.com/user-attachments/assets/6fcdecc1-6b66-4297-80dc-522544e0a85b" />
+<img width="828" height="556" alt="9" src="https://github.com/user-attachments/assets/8a675bb0-8249-4910-8c6b-0560cf73565d" />
 <img width="909" height="804" alt="Spotify pic" src="https://github.com/user-attachments/assets/b8cb2288-bd9b-49a2-aa78-1cdaf1087872" />
 # Spotify-Genre-Segmentation
 ML project to classify Spotify songs by genre using audio features
